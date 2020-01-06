@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "XEAS",
+    "name": "XEAS",
+    "authors": [ "MrJet" ],
+    "description": "Add new hard crafted hi-tech Xeno-Adapted Stuff. Includ armor set (slightly better than survival armor), new knife (better butchering, impression damage) and vortex bag (120 L + tiny size). Late game content!",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }  
+]
